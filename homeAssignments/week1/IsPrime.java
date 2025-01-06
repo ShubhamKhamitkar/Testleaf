@@ -1,4 +1,4 @@
-package week1.homeAssigments;
+package homeAssignments.week1;
 
 public class IsPrime {
 

@@ -10,7 +10,7 @@ import org.openqa.selenium.support.ui.Select;
 public class CreateFacebookAccountUsingSelectClass {
 
 	public static void main(String[] args) {
-		// Initialize the ChromeDriver
+	// Initialize the ChromeDriver
         ChromeDriver driver = new ChromeDriver();
         
         // Open the URL in the browser

@@ -10,7 +10,7 @@ import org.openqa.selenium.support.ui.Select;
 public class CreateAccountUsingSelectClass {
 	
 	public static void main(String[] args) {
-		// Initialize the ChromeDriver
+	// Initialize the ChromeDriver
         ChromeDriver driver = new ChromeDriver();
         
         // Open the URL in the browser
@@ -80,7 +80,7 @@ public class CreateAccountUsingSelectClass {
         System.out.println("Page Title after creating the account: " + title);
         
         // Close the browser window
-        //driver.close();
+        driver.close();
 	}
 
 }
